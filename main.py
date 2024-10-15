@@ -1,4 +1,4 @@
-3# Put your function here
+# Put your function here
 def factorial(n):
     if n > 1 :
         n = n * factorial(n-1)
